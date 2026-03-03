@@ -1,0 +1,198 @@
+{
+    "os": "Linux-6.8.0-101-generic-x86_64-with-glibc2.35",
+    "python": "3.10.18",
+    "heartbeatAt": "2026-03-03T08:50:34.035590",
+    "startedAt": "2026-03-03T08:50:33.531129",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/sangheon/Desktop/PansoriMIDIDetection/train.py",
+    "host": "ccml-XPS-8960",
+    "username": "sangheon",
+    "executable": "/home/sangheon/miniconda3/envs/pansori/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 1739.565375,
+        "min": 800.0,
+        "max": 5100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 800.318,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 800.704,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 801.571,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 4627.384,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 2602.888,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 5506.443,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 4566.217,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 5532.984,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 5522.018,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 800.667,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5900.0
+        },
+        {
+            "current": 4261.805,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 4299.942,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 801.451,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 801.296,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 1973.31,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 2383.495,
+            "min": 800.0,
+            "max": 4300.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 4300.0
+        }
+    ],
+    "disk": {
+        "total": 937.3305015563965,
+        "used": 791.4984741210938
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 30.996150970458984
+    }
+}
